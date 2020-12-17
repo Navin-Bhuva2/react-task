@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 190.8 50.4" style="enable-background:new 0 0 190.8 50.4;" xml:space="preserve" preserveAspectRatio="none">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#092A33;}
+	.st2{fill:none;stroke:#17C3FC;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="95.4173" y1="1880.6555" x2="95.4173" y2="1929.0156" gradientTransform="matrix(1 0 0 1 0 -1879.6522)">
+	<stop  offset="0" style="stop-color:#1387AE;stop-opacity:0.18"/>
+	<stop  offset="0.2115" style="stop-color:#127B9F;stop-opacity:0.1969"/>
+	<stop  offset="0.6183" style="stop-color:#0F5D77;stop-opacity:0.2295"/>
+	<stop  offset="1" style="stop-color:#0C3D4C;stop-opacity:0.26"/>
+</linearGradient>
+<polygon class="st0" points="189.8,1 189.8,49.4 1,49.4 1,14.8 14.2,1.6 "/>
+<g>
+	<rect x="0.8" y="47.6" class="st1" width="190" height="2.2"/>
+</g>
+<polyline class="st2" points="1,49.8 1,49.4 1,14.8 14.2,1.6 189.8,1 189.8,49.4 189.8,49.8 "/>
+</svg>
